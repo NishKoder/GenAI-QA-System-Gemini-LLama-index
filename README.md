@@ -28,3 +28,6 @@ git clone https://github.com/username/repo.git
 `activate myenv`
 # Install the project dependencies
 `python install -r requirements.txt`
+
+# Run Project
+`streamlit run StreamlitApp.py`
