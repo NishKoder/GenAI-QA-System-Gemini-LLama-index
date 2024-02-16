@@ -94,3 +94,37 @@ A: Superintelligence poses risks and profound ethical questions. Proactive steps
 AI Alignment: Ensuring AI goals are aligned with human values
 Robustness: Making AI systems resistant to hacking and unforeseen consequences.
 International Cooperation: Establishing global norms and regulations for AI development.
+
+Artificial Intelligence (AI)
+
+Scope: AI is the overarching field of building intelligent machines that can perform tasks typically requiring human-level cognition.
+Goals: AI aims to simulate abilities associated with human intelligence such as:
+Reasoning and problem-solving
+Learning and adaptation
+Natural language understanding
+Perception (like image recognition)
+Methods: AI encompasses various techniques including:
+Rule-based systems
+Expert systems
+Machine learning (and Deep Learning)
+Search and optimization algorithms
+And more
+Machine Learning (ML)
+
+Scope: ML is a subfield of AI focused on algorithms that enable computers to learn from data without explicit programming.
+Goals: ML aims to create models that can:
+Make predictions (e.g., classify images, predict stock prices)
+Discover patterns in data
+Adapt and improve their performance over time with additional data.
+Methods: Common ML techniques include:
+Supervised Learning (learning from labeled data)
+Unsupervised Learning (finding patterns in unlabeled data)
+Reinforcement Learning (learning through trial and error)
+Relationship Between AI and ML
+
+ML as a Tool in AI: Machine learning is a key tool used to achieve artificial intelligence. Many modern AI systems rely heavily on machine learning algorithms to learn, adapt, and make intelligent decisions.
+AI Beyond ML: While ML is a powerful tool, AI covers a broader spectrum of techniques beyond data-driven learning. Some AI problems can be solved more directly with logic-based, search-based or knowledge representation approaches.
+Key Summary Points
+
+AI is the grander concept of creating intelligent machines.
+ML is a key subset of AI that focuses on teaching machines to learn from data.
