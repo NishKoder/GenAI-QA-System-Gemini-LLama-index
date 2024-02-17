@@ -16,7 +16,7 @@ This project uses [Conda](https://docs.conda.io/en/latest/) to manage the enviro
 4. Create a new conda environment. Replace `envname` with your preferred name for the environment and `python=3.8` with your preferred python version:5. Activate the environment:6. Install the project dependencies:## Usage
 
 Before running the project scripts, ensure that the conda environment is activated. You can do this using the command:Thanks for using this application!# Clone the repository
-git clone [https://github.com/username/repo.git](https://github.com/NishKoder/GenAI-QA-System-Gemini-LLama-index.git)
+git clone [copy link](https://github.com/NishKoder/GenAI-QA-System-Gemini-LLama-index.git)
 # Navigate to the project's directory
 `cd repo`
 
